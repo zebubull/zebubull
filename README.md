@@ -1,6 +1,6 @@
-- interested in low level stuff but not very good at it.
-- currently learning rust.
-- zebu bull on discord.
+- i do low-level stuff but i suck at it.
+- interested in rust and zig.
+- zebubull on discord.
 
 <!---
 pixelatedCorn/pixelatedCorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
