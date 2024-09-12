@@ -1,5 +1,5 @@
 - i do low-level stuff but i suck at it.
-- interested in rust and zig.
+- i mainly write rust and c.
 - zebubull on discord.
 
 <!---
