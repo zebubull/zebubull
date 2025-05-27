@@ -1,6 +1,4 @@
-- i do low-level stuff but i suck at it.
-- i mainly write rust and c.
-- zebubull on discord.
+programming is hard 😔
 
 <!---
 pixelatedCorn/pixelatedCorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
